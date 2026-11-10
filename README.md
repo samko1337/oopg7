@@ -1,0 +1,1 @@
+Projekt spustite príkazom python -m main
